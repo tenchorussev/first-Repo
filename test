@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  Tortoise change this!
 
 Test Tortoise and GitBash
@@ -5,8 +6,17 @@ Upgrade by GitBash
 
 ...................
 
+=======
+
+Tortoise CHange 
+
+Test Tortoise and GitBash
+Upgrade by GitBash
+.......
+>>>>>>> d5f53d805d0fd9fb855c54da7de69842592127ad
 Edited in Remote repository
 Another Chnges from Remote repo.
+
 --Changes from local host.
 CHANGES FROM REMOTE HOST.
  ANother change from local host .
